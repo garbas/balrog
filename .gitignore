@@ -10,3 +10,4 @@ cef.log
 *.egg-info
 build
 dist
+result
